@@ -7,7 +7,9 @@ Python
   pygame, multiprocessing
 #### Algorithm
   naive approach and advance approach
-  min/max | greedy | nega max and alpha beta pruning
+  min/max
+  greedy
+  nega max and alpha beta pruning
 
 # Author:
 Eddie Sharick, 
